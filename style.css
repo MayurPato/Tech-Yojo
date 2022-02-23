@@ -26,7 +26,7 @@ img {
   padding: 0 1.2rem;
 }
 
-/* header */
+
 header {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
@@ -120,7 +120,7 @@ header {
   cursor: pointer;
 }
 
-/* design */
+
 .design {
   padding: 4.5rem 0;
 }
@@ -194,7 +194,6 @@ header {
   font-family: var(--Playfair);
 }
 
-/* blog */
 .blog {
   background: #f9f9f9;
   padding: 4.5rem 0;
@@ -250,7 +249,6 @@ header {
   background: var(--exDark);
 }
 
-/* about */
 .about {
   padding: 4.5rem 0;
 }
@@ -263,7 +261,7 @@ header {
   opacity: 0.8;
 }
 
-/* footer */
+
 footer {
   background: var(--exDark);
   color: #fff;
@@ -301,7 +299,6 @@ footer {
   letter-spacing: 2px;
 }
 
-/* Media Queries */
 @media screen and (min-width: 540px) {
   .navbar-nav a {
     padding-right: 1.2rem;
